@@ -1,0 +1,62 @@
+body,
+html {
+    height: 100%;
+    
+}
+
+.bg {
+    /* The image used */
+    background-image: url("/img/bg.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    border-radius: 0 !important;
+
+    width: 100%;
+}
+
+.crb {
+    opacity: 0.8;
+    width: 75%;
+}
+
+.crbH {
+    opacity: 0.7;
+    width: 50%;
+}
+
+.crbF {
+    opacity: 0.9;
+    width: 50%;
+}
+
+.noP {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: 0 !important;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.in {
+    width: 50% !important;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.navb {
+    background-color: rgb(184, 161, 206);
+}
+
